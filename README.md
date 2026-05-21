@@ -33,11 +33,11 @@ Capable of programming PLCs and working with SCADA systems for industrial automa
 Strong understanding of power generation, transmission, distribution, and system analysis for reliable electrical network design.
 
 ## Certifications
-# Engineers Australia
-# White Card
-# AutoCAD Certification
-# Home Electrification
-# Matlab Simulation
+- Engineers Australia
+- White Card
+- AutoCAD Certification
+- Home Electrification
+- Matlab Simulation
 
 ## Contact
 LinkedIn: https://linkedin.com/in/ranzanmagar
