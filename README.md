@@ -19,12 +19,18 @@ Designed electrical distribution, lighting, and protection systems with proper d
 Designed for different transmission line and distribution line projects under different conditions and proper selectrion of materials with proper documents.
 
 ## Skills
-# AutoCAD – Skilled in creating and interpreting detailed electrical drawings, schematics, and building service layouts using AutoCAD.
-# MATLAB – Proficient in using MATLAB for simulation, numerical analysis, and modelling of electrical and power systems.
-# ETAP – Experienced in ETAP for power system analysis including load flow, short circuit studies, and protection coordination.
-# AS/NZS 3000 – Knowledgeable in applying AS/NZS 3000 wiring rules to ensure safe and compliant electrical installations.
-# PLC & SCADA – Capable of programming PLCs and working with SCADA systems for industrial automation and process control.
-# Power Systems – Strong understanding of power generation, transmission, distribution, and system analysis for reliable electrical network design.
+# AutoCAD 
+Skilled in creating and interpreting detailed electrical drawings, schematics, and building service layouts using AutoCAD.
+# MATLAB 
+Proficient in using MATLAB for simulation, numerical analysis, and modelling of electrical and power systems.
+# ETAP 
+Experienced in ETAP for power system analysis including load flow, short circuit studies, and protection coordination.
+# AS/NZS 3000 
+Knowledgeable in applying AS/NZS 3000 wiring rules to ensure safe and compliant electrical installations.
+# PLC & SCADA 
+Capable of programming PLCs and working with SCADA systems for industrial automation and process control.
+# Power Systems
+Strong understanding of power generation, transmission, distribution, and system analysis for reliable electrical network design.
 
 ## Certifications
 Engineers Australia
