@@ -7,7 +7,7 @@ Electrical Engineer with experience in power systems, electrical design, and ind
 - AutoCAD
 - Electrical Design
 - Power System Analysis
-- 
+-  
 - ## Projects
 # IEEE 14 Bus Wide area Measurement System
 Developed a monitoring model using MATLAB for grid stability analysis using Phasor Measurement Unit.
@@ -33,11 +33,11 @@ Capable of programming PLCs and working with SCADA systems for industrial automa
 Strong understanding of power generation, transmission, distribution, and system analysis for reliable electrical network design.
 
 ## Certifications
-Engineers Australia
-White Card
-AutoCAD Certification
-Home Electrification
-Matlab Simulation
+# Engineers Australia
+# White Card
+# AutoCAD Certification
+# Home Electrification
+# Matlab Simulation
 
 ## Contact
 LinkedIn: https://linkedin.com/in/ranzanmagar
